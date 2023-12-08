@@ -1,4 +1,4 @@
-
+//
 import "https://unpkg.com/navigo"  //Will create the global Navigo object used below
 import "https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.0/purify.min.js"
 import { makeOptionsToken } from "./utils.js"
