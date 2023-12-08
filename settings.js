@@ -1,4 +1,4 @@
-export const API_URL = "https://blue-desert-03f8b0803.4.azurestaticapps.net/api"
+export const API_URL = "https://smoothsaver2.azurewebsites.net/api"
 //export const API_URL = "https://smoothsaver.azurewebsites.net/api"
 //export const API_URL = "http://localhost:8080/api"
 //export const API_URL = "https://smooth-saver.mastore.repl.co/api"
